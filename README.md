@@ -7,6 +7,7 @@
   - :computer: j'aime le codage :computer:
   - j'aime aussi la moto (c'est cool la moto )
     
-  (![moto (1)](https://github.com/panoramix123/presentation/assets/105907601/16add046-72a0-41cf-a945-69aa15934867)
+  ![moto (1)](https://github.com/panoramix123/panoramix123/assets/105907601/85b3b23b-3806-43dc-9a54-68697cd165ef)
+
 
   - ~ Ps: j'ai hate d'apprendre de nouvelles choses ! ~
